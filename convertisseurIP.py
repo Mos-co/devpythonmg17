@@ -5,6 +5,8 @@
 """convertisseur d'addrese IPv4
 __version__ = 2.0
 __author__ = Mohamed Ahmed Sopio
+            MRTSECG17
+            mhd.sopio@gmail.com
 __copyright__ = libre
 """
 
